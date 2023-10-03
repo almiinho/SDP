@@ -2,7 +2,7 @@ public class CarRentalSystem {
     private static CarRentalSystem instance;
 
     private CarRentalSystem() {
-        // Private constructor to prevent instantiation.
+
     }
 
     public static CarRentalSystem getInstance() {
